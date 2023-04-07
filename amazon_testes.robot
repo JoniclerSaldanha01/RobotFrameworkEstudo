@@ -12,9 +12,8 @@ Caso de Teste 01 - Acesso ao menu "Livros"
     Acessar a home page do site Amazon.com.br
     Entrar no menu "Livros"
     Verificar se aparece a frase "Loja de Livros"
-#    Verificar se o título da página fica "Livros | amazon.com.br"
-
-#    Verificar se aparece a categoria "Inglês e Outras Línguas"
+    Verificar se o título da página fica "Livros | Amazon.com.br"
+    Verificar se aparece a categoria "Livros de direito"
 
 #Caso de Teste 02 - Pesquisa de um Produto
 #    [Documentation]    Esse teste pesquisa por xbox no site da Amazon
